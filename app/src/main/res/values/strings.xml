@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">True Light 1</string>
+
+    <string name="on_button">ON</string>
+    <string name="off_button">OFF</string>
+    <string name="beacon_button">Beacon</string>
+    <string name="beacon_off_button">Beacon OFF</string>
+    <string name="hold_button">Hold</string>
+</resources>
